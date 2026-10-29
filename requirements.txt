@@ -1,0 +1,22 @@
+# Backend Core
+fastapi
+uvicorn
+python-dotenv
+python-multipart
+
+# Data Processing
+pandas
+openpyxl
+numpy
+
+# NLP & Machine Learning
+torch
+transformers
+scikit-learn
+jieba
+
+# Vector Search
+faiss-cpu
+
+# OpenAI API
+openai
